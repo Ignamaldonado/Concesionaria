@@ -46,5 +46,3 @@ let concensionaria = {
     }
     
 }
-
-

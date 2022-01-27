@@ -18,7 +18,18 @@ let autos = [
     anio: 2019,
     patente: 'JJK116',
     vendido: false,
-    }
+    },
+    {
+    marca: 'Chevrolet',
+    modelo: 'Corvette',
+    precio: 85000,
+    km: 0,
+    color: 'Negro',
+    cuotas: 14,
+    anio: 2019,
+    patente: 'DOU445',
+    vendido: true,
+    } 
 ]
 
 module.exports = autos
